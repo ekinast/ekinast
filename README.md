@@ -17,7 +17,7 @@ Soy un Desarrollador Full Stack especializado en JavaScript, TypeScript, React, 
 
 ### 📂 Proyectos Destacados
 
-- **[Proyecto 1](https://github.com/ekinast/proyecto1)**: Breve descripción del proyecto.
+- **[Proyecto 1]((https://github.com/WebAdminISP/))**: Proyecto final de HENRY, incluye frontend y backend.
 - **[Proyecto 2](https://github.com/ekinast/proyecto2)**: Breve descripción del proyecto.
 
 ¡Gracias por visitar mi perfil!
