@@ -1,16 +1,23 @@
-## Hi there 👋
+# ¡Hola! Soy Edmundo Kinast 👋
 
-<!--
-**ekinast/ekinast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un Desarrollador Full Stack especializado en JavaScript, TypeScript, React, Node.js, NestJS, y PostgreSQL. Me apasiona el desarrollo web y siempre estoy en búsqueda de nuevos desafíos que me permitan aprender y crecer profesionalmente.
 
-Here are some ideas to get you started:
+### 🚀 Habilidades Técnicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: React, Redux, HTML5, CSS3, Bootstrap
+- **Backend**: Node.js, NestJS, Express, TypeORM
+- **Bases de Datos**: PostgreSQL, MySQL
+- **Otras**: Docker, Git, CI/CD, Swagger, Auth0
+
+### 📫 Cómo Contactarme
+
+- **Correo Electrónico**: [tu.email@ejemplo.com](mailto:ekinast@gmail.com)
+- **LinkedIn**: [linkedin.com/in/ekinast](https://linkedin.com/in/ekinast)
+- **Portafolio**: [link-a-tu-portafolio.com](https://pf-deploy-latest.onrender.com/))
+
+### 📂 Proyectos Destacados
+
+- **[Proyecto 1](https://github.com/ekinast/proyecto1)**: Breve descripción del proyecto.
+- **[Proyecto 2](https://github.com/ekinast/proyecto2)**: Breve descripción del proyecto.
+
+¡Gracias por visitar mi perfil!
