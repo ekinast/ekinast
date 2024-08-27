@@ -11,9 +11,9 @@ Soy un Desarrollador Full Stack especializado en JavaScript, TypeScript, React, 
 
 ### 📫 Cómo Contactarme
 
-- **Correo Electrónico**: (ekinast@gmail.com)
+-**Correo Electrónico**: [ekinast@gmail.com](mailto:ekinast@gmail.com)
 - **LinkedIn**: (https://linkedin.com/in/ekinast)
-- **Portafolio**: https://pf-deploy-latest.onrender.com/))
+- **Portafolio**: [https://ekinast.github.io/EdmundoKinast/](https://ekinast.github.io/EdmundoKinast/))
 
 ### 📂 Proyectos Destacados
 
