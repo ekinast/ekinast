@@ -1,24 +1,38 @@
-# ¡Hola! Soy Edmundo Kinast 👋
+# Edmundo Kinast
 
-Soy un Desarrollador Full Stack especializado en JavaScript, TypeScript, React, Node.js, NestJS, y PostgreSQL. Me apasiona el desarrollo web y siempre estoy en búsqueda de nuevos desafíos que me permitan aprender y crecer profesionalmente.
+¡Hola! Soy Edmundo Kinast, desarrollador **_Fullstack_** especializado **_Back-end_** usando JavaScript, TypeScript, NestJS y PostgreSQL.
 
-### 🚀 Habilidades Técnicas
+## Sobre mí
 
-- **Frontend**: React, Redux, HTML5, CSS3, Bootstrap
-- **Backend**: Node.js, NestJS, Express, TypeORM
-- **Bases de Datos**: PostgreSQL, MySQL
-- **Otras**: Docker, Git, CI/CD, Swagger, Auth0
+Soy un apasionado por la tecnología y el desarrollo de software, con experiencia en el desarrollo de aplicaciones web utilizando tecnologías modernas. Siempre estoy en busca de nuevos desafíos y oportunidades para aprender y crecer profesionalmente.
 
-### 📫 Cómo Contactarme
+## Habilidades Técnicas
 
-- **Correo Electrónico**: [ekinast@gmail.com](mailto:ekinast@gmail.com)
-- **LinkedIn**: [linkedin.com/in/ekinast](https://linkedin.com/in/ekinast)
-- **Portafolio**: [https://ekinast.github.io/EdmundoKinast/](https://ekinast.github.io/EdmundoKinast/)
+- **Lenguajes**: JavaScript, TypeScript, SQL
+- **Frameworks**: NestJS, Express, React, Redux
+- **Bases de Datos**: PostgreSQL, MongoDB
+- **Herramientas y Tecnologías**: Docker, Swagger, Git, TypeORM
 
-### 📂 Proyectos Destacados
+## Proyectos Destacados
 
-- **[Proyecto 1](https://github.com/WebAdminISP/)**: Proyecto final de HENRY, donde desarrollé el backend de una aplicación para un proveedor de servicios de internet (ISP). Tecnologías utilizadas: NestJS, TypeScript, PostgreSQL, Docker, Swagger, Auth0.
-- **[Proyecto 2](https://github.com/ekinast/m4-deploy)**: Proyecto del módulo 4 de HENRY, con un backend desarrollado en NestJS, utilizando Docker y Swagger para la documentación y despliegue de la API.
-- **[Proyecto 3](https://github.com/pi-rym/PM3-ekinast)**: Proyecto del módulo 3 de HENRY, un sistema de reserva de turnos para un centro de diagnóstico, con un backend en Express y TypeScript, y un frontend en React-Redux.
+- **[Módulo 3](https://github.com/pi-rym/PM3-ekinast)**: Proyecto de Back-end con Express y Front-end con React sobre un sistema de reserva de turnos médicos en un instituto.
+- **[Módulo 4](https://github.com/ekinast/m4-deploy)**: Proyecto de backend desarrollado con NestJS y PostgreSQL, utilizando Docker para la gestión de contenedores.
+- **[Proyecto Final](https://github.com/WebAdminISP/)**: Proyecto final del bootcamp HENRY, participé en el desarrollo del back-end
 
-¡Gracias por visitar mi perfil!
+## Educación y Certificaciones
+
+- **Ingeniero Electrónico**: Universidad Tecnológica Nacional, 1983
+- **Capacitación en JavaScript y TypeScript**: HENRY, 2024
+- **Capacitación en PostgreSQL**: HENRY, 2024
+- **Capacitación en NestJS y Docker**: HENRY, 2024
+
+## Contacto
+
+- **Correo**: ekinast@gmail.com
+- **LinkedIn**: [linkedin.com/in/edmundo-kinast-ba398329a](https://www.linkedin.com/in/edmundo-kinast-ba398329a/)
+
+## Idiomas
+
+- **Castellano**: Lengua madre
+- **Inglés**: B2 Upper Intermediate - orientado a lenguaje técnico
+- **Italiano**: B1

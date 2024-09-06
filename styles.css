@@ -1,0 +1,100 @@
+/* Estilos generales */
+body {
+  font-family: Verdana, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #333;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Estilo del contenedor del encabezado */
+header {
+  background-color: #007bff;
+  color: white;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Estilo del contenedor de texto dentro del header */
+header .header-text {
+  flex-grow: 1;
+}
+
+/* Estilo del nombre */
+header h1 {
+  margin: 0;
+  font-size: 2.5em;
+}
+
+/* Estilo para la descripción debajo del nombre */
+header p {
+  font-size: 1.2em;
+  margin: 10px 0 0;
+}
+
+/* Estilo para la imagen del perfil */
+.profile-pic {
+  width: 80px; /* Ajusta el tamaño de la imagen */
+  height: 80px;
+  border-radius: 50%;
+  border: 3px solid white;
+  object-fit: cover; /* Asegura que la imagen se ajuste dentro del círculo */
+  margin-left: 20px; /* Espacio entre el texto y la imagen */
+}
+
+/* Estilo para las secciones */
+section {
+  margin: 20px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  flex-grow: 1;
+}
+
+/* Estilo para los títulos de las secciones */
+section h2 {
+  color: #007bff;
+  margin-bottom: 15px;
+}
+
+/* Estilo para las listas */
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  padding: 8px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+ul li:last-child {
+  border-bottom: none;
+}
+
+/* Estilo para los enlaces */
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Estilo del pie de página */
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #007bff;
+  color: white;
+  width: 100%;
+  margin-top: auto;
+}
